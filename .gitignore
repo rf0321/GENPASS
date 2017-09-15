@@ -1,17 +1,4 @@
-# Gradle
-.gradle
-!gradle-wrapper.jar
-
-
-# Idea
-.idea
-*.iml
-*.iws
-*.ipr
-
-
-# Java
-*.class
-*.jar
-*.war
-*.ear
+target/
+build/
+.gradle/
+gradle.properties
