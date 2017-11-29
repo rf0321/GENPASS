@@ -24,12 +24,14 @@ generate mix password
 ```
 genpass g -mix password
 ```
-### You can set name of password if you generate that
+# Demo dump
 ```
-You could generate password.Please set the name of password #Console log
-Twitter  #example
+genpass>genpass g password
+X5Y3BV6SOTXpzLMTnBPb
+You could generate password.Please set the name of password
+FooBar
+Generated password is saved on CSV file.
 ```
-Generated password is kept on CSV file.
 
 # Contributing
 I welcome it.but if you pullrequest to this repository,you should write description of pullrequest content in English.
