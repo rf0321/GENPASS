@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/ItinoseSan/GENPASS.svg?branch=1129)](https://travis-ci.org/ItinoseSan/GENPASS)
 # Gen-Pass　
 Java password generator.
 # How to use
