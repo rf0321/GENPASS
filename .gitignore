@@ -2,3 +2,8 @@ target/
 build/
 .gradle/
 gradle.properties
+.idea/
+gradle/wrapper/gradle-wrapper.jar
+src/main/resources/
+# Ignore dir for intelliJ
+.idea
