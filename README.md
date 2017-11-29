@@ -31,7 +31,7 @@ Twitter  #example
 ```
 Generated password is kept on CSV file.
 
-# PullRequest
+# Contributing
 I welcome it.but if you pullrequest to this repository,you should write description of pullrequest content in English.
 
 
