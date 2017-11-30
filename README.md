@@ -5,11 +5,11 @@ Java password generator.
 ### 1.Clone this repository
 https
 ```
-git clone https://github.com/ItinoseSan/Gen-Pass.git
+git clone https://github.com/ItinoseSan/GENPASS.git
 ```
 ssh
 ```
-git clone git@github.com:ItinoseSan/Gen-Pass.git
+git clone git@github.com:ItinoseSan/GENPASS.git
 ```
 ### 2.You can generate 20charactor password on Java console.
 generate password
