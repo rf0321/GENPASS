@@ -5,8 +5,11 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class CharMixing {
+
     private static Random random=new Random();
+
     private static final int charlength = 20;
+
     public static String mixing(String useChar)  {
         return IntStream.generate(random::nextInt)
                 .limit(charlength)
